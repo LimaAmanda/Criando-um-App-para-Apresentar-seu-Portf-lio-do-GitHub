@@ -1,0 +1,69 @@
+{
+  "data": [
+
+    {
+      "id": 442041492,
+      "name": "Landing-page-com-html-e-css.-",
+      "owner": {
+        "login": "LimaAmanda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/90490174?v=4"
+      },
+      "stargazers_count": 1,
+      "language": "HTML",
+      "html_url": "https://github.com/LimaAmanda/Landing-page-com-html-e-css.-",
+      "description": "Material de estudo html e css. "
+    },
+    {
+      "id": 426648652,
+      "name": "Projeto-calcularMedia",
+      "owner": {
+        "login": "LimaAmanda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/90490174?v=4"
+      },
+      "stargazers_count": 2,
+      "language": "TypeScript",
+      "html_url": "https://github.com/LimaAmanda/Projeto-calcularMedia",
+      "description": "Projeto desenvolvido para a matéria de PWEB II tarefa  aula12. "
+    },
+    {
+      "id": 422779253,
+      "name": "RecyclerView",
+      "owner": {
+        "login": "LimaAmanda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/90490174?v=4"
+      },
+      "stargazers_count": 1,
+      "language": "Kotlin",
+      "html_url": "https://github.com/LimaAmanda/RecyclerView",
+      "description": "Projeto realizado para  a disciplina de PMobile I"
+    },
+    {
+      "id": 432594088,
+      "name": "RpgApi-2.0",
+      "owner": {
+        "login": "LimaAmanda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/90490174?v=4"
+      },
+      "stargazers_count": 1,
+      "language": "C#",
+      "html_url": "https://github.com/LimaAmanda/RpgApi-2.0",
+      "description": "Projeto de RpgApi atualizado , para a disciplina de DS com as correções. "
+    },
+    {
+      "id": 447249401,
+      "name": "JavaScript-fundamentos",
+      "owner": {
+        "login": "LimaAmanda",
+        "avatar_url": "https://avatars.githubusercontent.com/u/90490174?v=4"
+      },
+      "watchers_count": 0,
+      "language": "JavaScript",
+      "html_url": "https://github.com/LimaAmanda/JavaScript-fundamentos",
+      "description": "Estudo sobre JavaScript fundamentos."
+    }
+
+      ]
+}
+
+
+
