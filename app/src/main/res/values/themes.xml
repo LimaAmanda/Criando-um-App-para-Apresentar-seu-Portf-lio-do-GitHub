@@ -1,6 +1,6 @@
 <resources>
     <style name="Theme.AppRepositories" parent="Theme.MaterialComponents.Light.NoActionBar">
-        <item name="colorPrimary">#473FB5</item>
-        <item name="colorPrimaryDark">#9C27B0</item>
+        <item name="colorPrimary">#AA9E33</item>
+        <item name="colorPrimaryDark">#12B7CC</item>
     </style>
 </resources>
